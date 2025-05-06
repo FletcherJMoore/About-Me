@@ -1,9 +1,9 @@
 ### Hi there, I'm Fletcher 👋
 
-🔭 I’m currently working on:  
-- 🎮 Revamped Project (DeckVault 2.0) with improved and new features coming soon...
-- 🛠️ At my job: Automation scripts using Google Apps Script & APIs  
-- 🧠 Experiments with AI-driven game design
+🔭 I’m currently working on
+- 🚀 DeckVault 2.0 – A complete revamp with enhanced UI/UX, faster performance, and new features (coming soon!)
+- 🛠️ Internal web tools at work – Automating workflows using Google Apps Script, REST APIs, and dynamic dashboards
+- 🌐 Frontend experiments – Building modular React components, trying out new frameworks, and refining design systems
 
 🌱 I’m currently learning:  
 - Python & Typescript
