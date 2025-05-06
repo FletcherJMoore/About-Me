@@ -1,19 +1,17 @@
-### Hi there, I'm [Your Name] 👋
+### Hi there, I'm Fletcher 👋
 
 🔭 I’m currently working on:  
-- 🎮 Immersive escape games & interactive puzzles  
-- 🛠️ Automation scripts using Google Apps Script & APIs  
+- 🎮 Revamped Project (DeckVault 2.0) with improved and new features coming soon...
+- 🛠️ At my job: Automation scripts using Google Apps Script & APIs  
 - 🧠 Experiments with AI-driven game design
 
 🌱 I’m currently learning:  
-- TypeScript & advanced GitHub Actions  
-- UI/UX psychology in game design
+- Python & Typescript
+- Making better UI/UX Designs
 
 📫 How to reach me:  
-- 🐦 Twitter: [@yourhandle](https://twitter.com/yourhandle)  
-- 📫 Email: your.email@example.com  
-- 🌐 Portfolio: [yourwebsite.com](https://yourwebsite.com)
-
+- 🐦 LinkedIn: [Fletcher Moore](https://www.linkedin.com/in/fletcher-moore/)  
+- 📫 Email: fletcherjmoore14@gmail.com
 ---
 
 ### 🧰 Tools & Tech
