@@ -48,10 +48,10 @@
 
 ### 🎧 Now Playing (Optional Spotify Widget)
 
-[![Spotify](https://novatorem-yourusername.vercel.app/api/spotify)](https://open.spotify.com/user/yourspotifyid)
+[![Spotify](https://novatorem-fletch.tc.vercel.app/api/spotify)](https://open.spotify.com/user/yourspotifyid)
 
 ---
 
 ### 🐍 Contribution Snake (Fun Animation)
 
-![Snake animation](https://github.com/yourusername/yourusername/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/fletcherjmoore/fletcherjmoore/blob/output/github-contribution-grid-snake.svg)
