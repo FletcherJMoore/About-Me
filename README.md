@@ -44,14 +44,4 @@
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=fletcherjmoore&theme=tokyonight)
 
----
 
-### 🎧 Now Playing (Optional Spotify Widget)
-
-[![Spotify](https://novatorem-fletcherjmoore.vercel.app/api/spotify)](https://open.spotify.com/user/yourspotifyid)
-
----
-
-### 🐍 Contribution Snake (Fun Animation)
-
-![Snake animation](https://github.com/fletcherjmoore/fletcherjmoore/blob/output/github-contribution-grid-snake.svg)
