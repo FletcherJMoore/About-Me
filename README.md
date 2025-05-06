@@ -48,7 +48,7 @@
 
 ### 🎧 Now Playing (Optional Spotify Widget)
 
-[![Spotify](https://novatorem-fletch.tc.vercel.app/api/spotify)](https://open.spotify.com/user/yourspotifyid)
+[![Spotify](https://novatorem-fletcherjmoore.vercel.app/api/spotify)](https://open.spotify.com/user/yourspotifyid)
 
 ---
 
